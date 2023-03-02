@@ -5,13 +5,6 @@ Created on Fri Jul 29 15:08:26 2022
 @author: A_chulab
 """
 
-# -*- coding: utf-8 -*-
-"""
-Spyder Editor
-
-This is a temporary script file.
-"""
-
 import os
 import sys
 import random
@@ -187,32 +180,3 @@ prediction2 = np.logical_not(prediction == 0)
 iou_pred(prediction2,y_test)
 dice_coef(prediction2,y_test)
 '''
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
