@@ -59,7 +59,7 @@ Using `predict.py` to segment your raw data.
 python predict.py
 ```
 
-![raw, mask, composite](CellDetector%20cf4e0f1eb3724caca8e894fb77ab065d/%25E5%259C%2596%25E7%2589%25871.png)
+![raw, mask, composite](https://github.com/NTHUChuLab/CellDetector/blob/main/%25E5%259C%2596%25E7%2589%25871.png)
 
 raw, mask, composite
 
