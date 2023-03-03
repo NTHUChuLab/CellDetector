@@ -1,5 +1,6 @@
 # CellDetector
 
+
 The following code can be passed through the terminal:
 
 ## 0. Import Models and Packages
@@ -10,10 +11,7 @@ pip install -r requirments.txt
 
 If you wish to train a new model with our method, please see the following instructions (1: Training data preparation, 2:  Model training). If you wish to segment your own data directly with our trained model, please go to **3. Segmentation part**. 
 
-
 ## 1. Training data preparation (training folder)
-
-### Ground truth generation
 
 After getting ThunderSTORM results and the contour masks, you can use `groundtruth_generate.py` to generate the final ground truth.
 
@@ -47,7 +45,6 @@ Using `unet.py` to train the U-net model
 - The output will be
     1. a trained model
 
-
 ## 3. Segmentation
 
 Using `predict.py` to segment your raw data.
@@ -62,17 +59,9 @@ Using `predict.py` to segment your raw data.
 python predict.py
 ```
 
-![raw image](Untitled%20cf4e0f1eb3724caca8e894fb77ab065d/061490_084010_022500_ch1-2.jpg)
+![raw, mask, composite](CellDetector%20cf4e0f1eb3724caca8e894fb77ab065d/%25E5%259C%2596%25E7%2589%25871.png)
 
-raw image
-
-![mask](Untitled%20cf4e0f1eb3724caca8e894fb77ab065d/061490_084010_022500_ch1-1-1.jpg)
-
-mask
-
-![composite](Untitled%20cf4e0f1eb3724caca8e894fb77ab065d/Composite.jpg)
-
-composite
+raw, mask, composite
 
 ## 4. Cell detection, registration, and intensity retrieval
 
@@ -121,5 +110,9 @@ cellfinder -s mask_channel -b background_channel -o output_folder -v 3.6 1.8 1.8
         3. a csv file with finest brain region level list.
     - The output will be
         1. an output folder with re-calculated cell density in targeted brain regions.
-- `finer_region_replace.py`
--
+- `finer_region_replace.py` : This is a tool to replace the finer brain altas.
+    - The input should be
+        1. an .tiff file with the region divided into finer part
+        2. an annotation.tiff file which is used in registration step
+    - The output will be
+        1. a new annotation.tiff file with finest brain region atlas
