@@ -61,7 +61,7 @@ python predict.py
 
 ![raw, mask, composite](https://github.com/NTHUChuLab/CellDetector/blob/main/%25E5%259C%2596%25E7%2589%25871.png)
 
-raw, mask, composite
+The images represent raw, mask, composite.
 
 ## 4. Cell detection, registration, and intensity retrieval
 
