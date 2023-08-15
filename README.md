@@ -9,7 +9,7 @@ The following code can be passed through the terminal:
 pip install -r requirments.txt
 ```
 
-If you wish to train a new model with our method, please see the following instructions (1: Training data preparation, 2:  Model training). If you wish to segment your own data directly with our trained model, please go to **3. Segmentation part**. 
+If you wish to train a new model with our method, please see the "Training Process" part(1: Training data preparation, 2:  Model training). If you wish to segment your own data directly with our trained model, please go to **3. Segmentation part**. 
 
 <details>
   <summary><b>Training Process (contains data preparation and model training)</b></summary>
