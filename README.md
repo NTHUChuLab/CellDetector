@@ -11,6 +11,9 @@ pip install -r requirments.txt
 
 If you wish to train a new model with our method, please see the following instructions (1: Training data preparation, 2:  Model training). If you wish to segment your own data directly with our trained model, please go to **3. Segmentation part**. 
 
+<details>
+  <summary><b>Training Process (contains data preparation and model training)</b></summary>
+
 ## 1. Training data preparation (training folder)
 
 After getting ThunderSTORM results and the contour masks, you can use `groundtruth_generate.py` to generate the final ground truth.
@@ -44,6 +47,8 @@ Using `unet.py` to train the U-net model
     1. a folder with final training dataset
 - The output will be
     1. a trained model
+
+</details>
 
 ## 3. Segmentation
 
