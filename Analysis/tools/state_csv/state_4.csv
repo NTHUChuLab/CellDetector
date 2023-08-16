@@ -1,0 +1,79 @@
+a,b,c
+MY-mot,/997/8/343/1065/354/370/,"Medulla, motor related"
+MY-sat,/997/8/343/1065/354/379/,"Medulla, behavioral state related"
+MY-sen,/997/8/343/1065/354/386/,"Medulla, sensory related"
+P-sat,/997/8/343/1065/771/1117/,"Pons, behavioral state related"
+P-sen,/997/8/343/1065/771/1132/,"Pons, sensory related"
+P-mot,/997/8/343/1065/771/987/,"Pons, motor related"
+ME,/997/8/343/1129/1097/10671/,Median eminence
+PVR,/997/8/343/1129/1097/141/,Periventricular region
+PVZ,/997/8/343/1129/1097/157/,Periventricular zone
+LZ,/997/8/343/1129/1097/290/,Hypothalamic lateral zone
+MEZ,/997/8/343/1129/1097/467/,Hypothalamic medial zone
+DORpm,/997/8/343/1129/549/856/,"Thalamus, polymodal association cortex related"
+DORsm,/997/8/343/1129/549/864/,"Thalamus, sensory-motor cortex related"
+PRT,/997/8/343/313/323/1100/,Pretectal region
+IV,/997/8/343/313/323/115/,Trochlear nucleus
+MRN,/997/8/343/313/323/128/,Midbrain reticular nucleus
+RN,/997/8/343/313/323/214/,Red nucleus
+AT,/997/8/343/313/323/231/,Anterior tegmental nucleus
+RR,/997/8/343/313/323/246/,"Midbrain reticular nucleus, retrorubral area"
+SCm,/997/8/343/313/323/294/,"Superior colliculus, motor related"
+III,/997/8/343/313/323/35/,Oculomotor nucleus
+SNr,/997/8/343/313/323/381/,"Substantia nigra, reticular part"
+MA3,/997/8/343/313/323/549009211/,Medial accesory oculomotor nucleus
+MT,/997/8/343/313/323/58/,Medial terminal nucleus of the accessory optic tract
+Pa4,/997/8/343/313/323/606826663/,Paratrochlear nucleus
+PN,/997/8/343/313/323/607344830/,Paranigral nucleus
+CUN,/997/8/343/313/323/616/,Cuneiform nucleus
+LT,/997/8/343/313/323/66/,Lateral terminal nucleus of the accessory optic tract
+VTA,/997/8/343/313/323/749/,Ventral tegmental area
+DT,/997/8/343/313/323/75/,Dorsal terminal nucleus of the accessory optic tract
+VTN,/997/8/343/313/323/757/,Ventral tegmental nucleus
+PAG,/997/8/343/313/323/795/,Periaqueductal gray
+EW,/997/8/343/313/323/975/,Edinger-Westphal nucleus
+SAG,/997/8/343/313/339/271/,Nucleus sagulum
+SCs,/997/8/343/313/339/302/,"Superior colliculus, sensory related"
+IC,/997/8/343/313/339/4/,Inferior colliculus
+MEV,/997/8/343/313/339/460/,Midbrain trigeminal nucleus
+NB,/997/8/343/313/339/580/,Nucleus of the brachium of the inferior colliculus
+SCO,/997/8/343/313/339/599626923/,Subcommissural organ
+PBG,/997/8/343/313/339/874/,Parabigeminal nucleus
+PPN,/997/8/343/313/348/1052/,Pedunculopontine nucleus
+RAmb,/997/8/343/313/348/165/,Midbrain raphe nuclei
+SNc,/997/8/343/313/348/374/,"Substantia nigra, compact part"
+SIM,/997/8/512/528/1073/1007/,Simple lobule
+AN,/997/8/512/528/1073/1017/,Ansiform lobule
+PRM,/997/8/512/528/1073/1025/,Paramedian lobule
+COPY,/997/8/512/528/1073/1033/,Copula pyramidis
+PFL,/997/8/512/528/1073/1041/,Paraflocculus
+FL,/997/8/512/528/1073/1049/,Flocculus
+LING,/997/8/512/528/645/912/,Lingula (I)
+CENT,/997/8/512/528/645/920/,Central lobule
+CUL,/997/8/512/528/645/928/,Culmen
+DEC,/997/8/512/528/645/936/,Declive (VI)
+FOTU,/997/8/512/528/645/944/,Folium-tuber vermis (VII)
+PYR,/997/8/512/528/645/951/,Pyramus (VIII)
+UVU,/997/8/512/528/645/957/,Uvula (IX)
+NOD,/997/8/512/528/645/968/,Nodulus (X)
+LSX,/997/8/567/623/477/275/,Lateral septal complex
+sAMY,/997/8/567/623/477/278/,Striatum-like amygdalar nuclei
+STRd,/997/8/567/623/477/485/,Striatum dorsal region
+STRv,/997/8/567/623/477/493/,Striatum ventral region
+PALc,/997/8/567/623/803/809/,"Pallidum, caudal region"
+PALd,/997/8/567/623/803/818/,"Pallidum, dorsal region"
+PALm,/997/8/567/623/803/826/,"Pallidum, medial region"
+PALv,/997/8/567/623/803/835/,"Pallidum, ventral region"
+HPF,/997/8/567/688/695/1089/,Hippocampal formation
+Isocortex,/997/8/567/688/695/315/,Isocortex
+OLF,/997/8/567/688/695/698/,Olfactory areas
+LA,/997/8/567/688/703/131/,Lateral amygdalar nucleus
+BLA,/997/8/567/688/703/295/,Basolateral amygdalar nucleus
+BMA,/997/8/567/688/703/319/,Basomedial amygdalar nucleus
+CLA,/997/8/567/688/703/583/,Claustrum
+PA,/997/8/567/688/703/780/,Posterior amygdalar nucleus
+EP,/997/8/567/688/703/942/,Endopiriform nucleus
+VeCB,/997/8/512/519/589508455/,Vestibulocerebellar nucleus
+DN,/997/8/512/519/846/,Dentate nucleus
+IP,/997/8/512/519/91/,Interposed nucleus
+FN,/997/8/512/519/989/,Fastigial nucleus

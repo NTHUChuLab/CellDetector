@@ -1,0 +1,18 @@
+a,b,c
+MY,/997/8/343/1065/354/,Medulla
+P,/997/8/343/1065/771/,Pons
+HY,/997/8/343/1129/1097/,Hypothalamus
+TH,/997/8/343/1129/549/,Thalamus
+MBmot,/997/8/343/313/323/,"Midbrain, motor related"
+MBsen,/997/8/343/313/339/,"Midbrain, sensory related"
+MBsta,/997/8/343/313/348/,"Midbrain, behavioral state related"
+VeCB,/997/8/512/519/589508455/,Vestibulocerebellar nucleus
+DN,/997/8/512/519/846/,Dentate nucleus
+IP,/997/8/512/519/91/,Interposed nucleus
+FN,/997/8/512/519/989/,Fastigial nucleus
+HEM,/997/8/512/528/1073/,Hemispheric regions
+VERM,/997/8/512/528/645/,Vermal regions
+STR,/997/8/567/623/477/,Striatum
+PAL,/997/8/567/623/803/,Pallidum
+CTXpl,/997/8/567/688/695/,Cortical plate
+CTXsp,/997/8/567/688/703/,Cortical subplate

@@ -1,0 +1,253 @@
+a,b,c
+GRN,/997/8/343/1065/354/370/1048/,Gigantocellular reticular nucleus
+ISN,/997/8/343/1065/354/370/106/,Inferior salivatory nucleus
+PPY,/997/8/343/1065/354/370/1069/,Parapyramidal nucleus
+AMB,/997/8/343/1065/354/370/135/,Nucleus ambiguus
+IRN,/997/8/343/1065/354/370/136/,Intermediate reticular nucleus
+PHY,/997/8/343/1065/354/370/154/,Perihypoglossal nuclei
+LIN,/997/8/343/1065/354/370/203/,Linear nucleus of the medulla
+LRN,/997/8/343/1065/354/370/235/,Lateral reticular nucleus
+MARN,/997/8/343/1065/354/370/307/,Magnocellular reticular nucleus
+ICB,/997/8/343/1065/354/370/372/,Infracerebellar nucleus
+MDRN,/997/8/343/1065/354/370/395/,Medullary reticular nucleus
+ACVII,/997/8/343/1065/354/370/576/,Accessory facial motor nucleus
+VI,/997/8/343/1065/354/370/653/,Abducens nucleus
+VII,/997/8/343/1065/354/370/661/,Facial motor nucleus
+VNC,/997/8/343/1065/354/370/701/,Vestibular nuclei
+x,/997/8/343/1065/354/370/765/,Nucleus x
+XII,/997/8/343/1065/354/370/773/,Hypoglossal nucleus
+y,/997/8/343/1065/354/370/781/,Nucleus y
+IO,/997/8/343/1065/354/370/83/,Inferior olivary complex
+DMX,/997/8/343/1065/354/370/839/,Dorsal motor nucleus of the vagus nerve
+PARN,/997/8/343/1065/354/370/852/,Parvicellular reticular nucleus
+PAS,/997/8/343/1065/354/370/859/,Parasolitary nucleus
+PGRN,/997/8/343/1065/354/370/938/,Paragigantocellular reticular nucleus
+RM,/997/8/343/1065/354/379/206/,Nucleus raphe magnus
+RO,/997/8/343/1065/354/379/222/,Nucleus raphe obscurus
+RPA,/997/8/343/1065/354/379/230/,Nucleus raphe pallidus
+AP,/997/8/343/1065/354/386/207/,Area postrema
+SPVC,/997/8/343/1065/354/386/429/,"Spinal nucleus of the trigeminal, caudal part"
+SPVI,/997/8/343/1065/354/386/437/,"Spinal nucleus of the trigeminal, interpolar part"
+SPVO,/997/8/343/1065/354/386/445/,"Spinal nucleus of the trigeminal, oral part"
+Pa5,/997/8/343/1065/354/386/589508451/,Paratrigeminal nucleus
+CN,/997/8/343/1065/354/386/607/,Cochlear nuclei
+NTB,/997/8/343/1065/354/386/642/,Nucleus of the trapezoid body
+NTS,/997/8/343/1065/354/386/651/,Nucleus of the solitary tract
+DCN,/997/8/343/1065/354/386/720/,Dorsal column nuclei
+ECU,/997/8/343/1065/354/386/903/,External cuneate nucleus
+PRNr,/997/8/343/1065/771/1117/146/,Pontine reticular nucleus
+LC,/997/8/343/1065/771/1117/147/,Locus ceruleus
+LDT,/997/8/343/1065/771/1117/162/,Laterodorsal tegmental nucleus
+RPO,/997/8/343/1065/771/1117/238/,Nucleus raphe pontis
+SLC,/997/8/343/1065/771/1117/350/,Subceruleus nucleus
+SLD,/997/8/343/1065/771/1117/358/,Sublaterodorsal nucleus
+NI,/997/8/343/1065/771/1117/604/,Nucleus incertus
+CS,/997/8/343/1065/771/1117/679/,Superior central nucleus raphe
+SOC,/997/8/343/1065/771/1132/398/,Superior olivary complex
+NLL,/997/8/343/1065/771/1132/612/,Nucleus of the lateral lemniscus
+PSV,/997/8/343/1065/771/1132/7/,Principal sensory nucleus of the trigeminal
+PB,/997/8/343/1065/771/1132/867/,Parabrachial nucleus
+PRNc,/997/8/343/1065/771/987/1093/,"Pontine reticular nucleus, caudal part"
+B,/997/8/343/1065/771/987/280/,Barrington's nucleus
+SG,/997/8/343/1065/771/987/318/,Supragenual nucleus
+SUT,/997/8/343/1065/771/987/534/,Supratrigeminal nucleus
+P5,/997/8/343/1065/771/987/549009215/,Peritrigeminal zone
+Acs5,/997/8/343/1065/771/987/549009219/,Accessory trigeminal nucleus
+PC5,/997/8/343/1065/771/987/549009223/,Parvicellular motor 5 nucleus
+I5,/997/8/343/1065/771/987/549009227/,Intertrigeminal nucleus
+TRN,/997/8/343/1065/771/987/574/,Tegmental reticular nucleus
+PDTg,/997/8/343/1065/771/987/599626927/,Posterodorsal tegmental nucleus
+V,/997/8/343/1065/771/987/621/,Motor nucleus of trigeminal
+DTN,/997/8/343/1065/771/987/880/,Dorsal tegmental nucleus
+PCG,/997/8/343/1065/771/987/898/,Pontine central gray
+PG,/997/8/343/1065/771/987/931/,Pontine gray
+ME,/997/8/343/1129/1097/10671/,Median eminence
+PS,/997/8/343/1129/1097/141/1109/,Parastrial nucleus
+PVp,/997/8/343/1129/1097/141/126/,"Periventricular hypothalamic nucleus, posterior part"
+PVpo,/997/8/343/1129/1097/141/133/,"Periventricular hypothalamic nucleus, preoptic part"
+AVP,/997/8/343/1129/1097/141/263/,Anteroventral preoptic nucleus
+AVPV,/997/8/343/1129/1097/141/272/,Anteroventral periventricular nucleus
+SCH,/997/8/343/1129/1097/141/286/,Suprachiasmatic nucleus
+SFO,/997/8/343/1129/1097/141/338/,Subfornical organ
+SBPV,/997/8/343/1129/1097/141/347/,Subparaventricular zone
+MEPO,/997/8/343/1129/1097/141/452/,Median preoptic nucleus
+MPO,/997/8/343/1129/1097/141/523/,Medial preoptic area
+VMPO,/997/8/343/1129/1097/141/576073699/,Ventromedial preoptic nucleus
+VLPO,/997/8/343/1129/1097/141/689/,Ventrolateral preoptic nucleus
+ADP,/997/8/343/1129/1097/141/72/,Anterodorsal preoptic nucleus
+OV,/997/8/343/1129/1097/141/763/,Vascular organ of the lamina terminalis
+DMH,/997/8/343/1129/1097/141/830/,Dorsomedial nucleus of the hypothalamus
+PD,/997/8/343/1129/1097/141/914/,Posterodorsal preoptic nucleus
+PVi,/997/8/343/1129/1097/157/118/,"Periventricular hypothalamic nucleus, intermediate part"
+ARH,/997/8/343/1129/1097/157/223/,Arcuate hypothalamic nucleus
+PVa,/997/8/343/1129/1097/157/30/,"Periventricular hypothalamic nucleus, anterior part"
+ASO,/997/8/343/1129/1097/157/332/,Accessory supraoptic group
+PVH,/997/8/343/1129/1097/157/38/,Paraventricular hypothalamic nucleus
+SO,/997/8/343/1129/1097/157/390/,Supraoptic nucleus
+RCH,/997/8/343/1129/1097/290/173/,Retrochiasmatic area
+LHA,/997/8/343/1129/1097/290/194/,Lateral hypothalamic area
+LPO,/997/8/343/1129/1097/290/226/,Lateral preoptic area
+PST,/997/8/343/1129/1097/290/356/,Preparasubthalamic nucleus
+PSTN,/997/8/343/1129/1097/290/364/,Parasubthalamic nucleus
+STN,/997/8/343/1129/1097/290/470/,Subthalamic nucleus
+PeF,/997/8/343/1129/1097/290/576073704/,Perifornical nucleus
+TU,/997/8/343/1129/1097/290/614/,Tuberal nucleus
+ZI,/997/8/343/1129/1097/290/797/,Zona incerta
+FF,/997/8/343/1129/1097/290/797/804/,Fields of Forel
+PMv,/997/8/343/1129/1097/467/1004/,Ventral premammillary nucleus
+VMHDM,/997/8/343/1129/1097/467/1200/,"Ventromedial hypothalamic nucleus, dorsomedial part"
+VMHC,/997/8/343/1129/1097/467/1300/,"Ventromedial hypothalamic nucleus, central part"
+VMHVL,/997/8/343/1129/1097/467/1400/,"Ventromedial hypothalamic nucleus, ventrolateral part"
+MBO,/997/8/343/1129/1097/467/331/,Mammillary body
+MPN,/997/8/343/1129/1097/467/515/,Medial preoptic nucleus
+PVHd,/997/8/343/1129/1097/467/63/,"Paraventricular hypothalamic nucleus, descending division"
+VMH,/997/8/343/1129/1097/467/693/,Ventromedial hypothalamic nucleus
+AHN,/997/8/343/1129/1097/467/88/,Anterior hypothalamic nucleus
+PH,/997/8/343/1129/1097/467/946/,Posterior hypothalamic nucleus
+PMd,/997/8/343/1129/1097/467/980/,Dorsal premammillary nucleus
+GENv,/997/8/343/1129/549/856/1014/,"Geniculate group, ventral thalamus"
+LAT,/997/8/343/1129/549/856/138/,Lateral group of the dorsal thalamus
+ATN,/997/8/343/1129/549/856/239/,Anterior group of the dorsal thalamus
+RT,/997/8/343/1129/549/856/262/,Reticular nucleus of the thalamus
+MED,/997/8/343/1129/549/856/444/,Medial group of the dorsal thalamus
+ILM,/997/8/343/1129/549/856/51/,Intralaminar nuclei of the dorsal thalamus
+MTN,/997/8/343/1129/549/856/571/,Midline group of the dorsal thalamus
+EPI,/997/8/343/1129/549/856/958/,Epithalamus
+GENd,/997/8/343/1129/549/864/1008/,"Geniculate group, dorsal thalamus"
+PP,/997/8/343/1129/549/864/1044/,Peripeduncular nucleus
+SPF,/997/8/343/1129/549/864/406/,Subparafascicular nucleus
+SPA,/997/8/343/1129/549/864/609/,Subparafascicular area
+VENT,/997/8/343/1129/549/864/637/,Ventral group of the dorsal thalamus
+PPT,/997/8/343/313/323/1100/1061/,Posterior pretectal nucleus
+APN,/997/8/343/313/323/1100/215/,Anterior pretectal nucleus
+MPT,/997/8/343/313/323/1100/531/,Medial pretectal area
+RPF,/997/8/343/313/323/1100/549009203/,Retroparafascicular nucleus
+NOT,/997/8/343/313/323/1100/628/,Nucleus of the optic tract
+NPC,/997/8/343/313/323/1100/634/,Nucleus of the posterior commissure
+OP,/997/8/343/313/323/1100/706/,Olivary pretectal nucleus
+IV,/997/8/343/313/323/115/,Trochlear nucleus
+MRN,/997/8/343/313/323/128/,Midbrain reticular nucleus
+RN,/997/8/343/313/323/214/,Red nucleus
+AT,/997/8/343/313/323/231/,Anterior tegmental nucleus
+RR,/997/8/343/313/323/246/,"Midbrain reticular nucleus, retrorubral area"
+SCig,/997/8/343/313/323/294/10/,"Superior colliculus, motor related, intermediate gray layer"
+SCiw,/997/8/343/313/323/294/17/,"Superior colliculus, motor related, intermediate white layer"
+SCdg,/997/8/343/313/323/294/26/,"Superior colliculus, motor related, deep gray layer"
+SCdw,/997/8/343/313/323/294/42/,"Superior colliculus, motor related, deep white layer"
+III,/997/8/343/313/323/35/,Oculomotor nucleus
+SNr,/997/8/343/313/323/381/,"Substantia nigra, reticular part"
+MA3,/997/8/343/313/323/549009211/,Medial accesory oculomotor nucleus
+MT,/997/8/343/313/323/58/,Medial terminal nucleus of the accessory optic tract
+Pa4,/997/8/343/313/323/606826663/,Paratrochlear nucleus
+PN,/997/8/343/313/323/607344830/,Paranigral nucleus
+CUN,/997/8/343/313/323/616/,Cuneiform nucleus
+LT,/997/8/343/313/323/66/,Lateral terminal nucleus of the accessory optic tract
+VTA,/997/8/343/313/323/749/,Ventral tegmental area
+DT,/997/8/343/313/323/75/,Dorsal terminal nucleus of the accessory optic tract
+VTN,/997/8/343/313/323/757/,Ventral tegmental nucleus
+PRC,/997/8/343/313/323/795/50/,Precommissural nucleus
+ND,/997/8/343/313/323/795/587/,Nucleus of Darkschewitsch
+Su3,/997/8/343/313/323/795/614454277/,Supraoculomotor periaqueductal gray
+INC,/997/8/343/313/323/795/67/,Interstitial nucleus of Cajal
+EW,/997/8/343/313/323/975/,Edinger-Westphal nucleus
+SAG,/997/8/343/313/339/271/,Nucleus sagulum
+SCzo,/997/8/343/313/339/302/834/,"Superior colliculus, zonal layer"
+SCsg,/997/8/343/313/339/302/842/,"Superior colliculus, superficial gray layer"
+SCop,/997/8/343/313/339/302/851/,"Superior colliculus, optic layer"
+ICc,/997/8/343/313/339/4/811/,"Inferior colliculus, central nucleus"
+ICd,/997/8/343/313/339/4/820/,"Inferior colliculus, dorsal nucleus"
+ICe,/997/8/343/313/339/4/828/,"Inferior colliculus, external nucleus"
+MEV,/997/8/343/313/339/460/,Midbrain trigeminal nucleus
+NB,/997/8/343/313/339/580/,Nucleus of the brachium of the inferior colliculus
+SCO,/997/8/343/313/339/599626923/,Subcommissural organ
+PBG,/997/8/343/313/339/874/,Parabigeminal nucleus
+PPN,/997/8/343/313/348/1052/,Pedunculopontine nucleus
+IPN,/997/8/343/313/348/165/100/,Interpeduncular nucleus
+IF,/997/8/343/313/348/165/12/,Interfascicular nucleus raphe
+RL,/997/8/343/313/348/165/197/,Rostral linear nucleus raphe
+CLI,/997/8/343/313/348/165/591/,Central linear nucleus raphe
+DR,/997/8/343/313/348/165/872/,Dorsal nucleus raphe
+SNc,/997/8/343/313/348/374/,"Substantia nigra, compact part"
+VeCB,/997/8/512/519/589508455/,Vestibulocerebellar nucleus
+DN,/997/8/512/519/846/,Dentate nucleus
+IP,/997/8/512/519/91/,Interposed nucleus
+FN,/997/8/512/519/989/,Fastigial nucleus
+SIM,/997/8/512/528/1073/1007/,Simple lobule
+ANcr1,/997/8/512/528/1073/1017/1056/,Crus 1
+ANcr2,/997/8/512/528/1073/1017/1064/,Crus 2
+PRM,/997/8/512/528/1073/1025/,Paramedian lobule
+COPY,/997/8/512/528/1073/1033/,Copula pyramidis
+PFL,/997/8/512/528/1073/1041/,Paraflocculus
+FL,/997/8/512/528/1073/1049/,Flocculus
+LING,/997/8/512/528/645/912/,Lingula (I)
+CENT2,/997/8/512/528/645/920/976/,Lobule II
+CENT3,/997/8/512/528/645/920/984/,Lobule III
+"CUL4, 5",/997/8/512/528/645/928/1091/,Lobules IV-V
+DEC,/997/8/512/528/645/936/,Declive (VI)
+FOTU,/997/8/512/528/645/944/,Folium-tuber vermis (VII)
+PYR,/997/8/512/528/645/951/,Pyramus (VIII)
+UVU,/997/8/512/528/645/957/,Uvula (IX)
+NOD,/997/8/512/528/645/968/,Nodulus (X)
+LS,/997/8/567/623/477/275/242/,Lateral septal nucleus
+SF,/997/8/567/623/477/275/310/,Septofimbrial nucleus
+SH,/997/8/567/623/477/275/333/,Septohippocampal nucleus
+IA,/997/8/567/623/477/278/1105/,Intercalated amygdalar nucleus
+MeAV,/997/8/567/623/477/278/1500/,"Medial amygdalar nucleus, anteroventral part"
+MeA,/997/8/567/623/477/278/1600/,Medial amygdalar nucleus
+MeAPD,/997/8/567/623/477/278/1700/,"Medial amygdalar nucleus, posterodorsal part"
+MeAPV,/997/8/567/623/477/278/1800/,"Medial amygdalar nucleus, posteroventral part"
+AAA,/997/8/567/623/477/278/23/,Anterior amygdalar area
+BA,/997/8/567/623/477/278/292/,Bed nucleus of the accessory olfactory tract
+MeAD,/997/8/567/623/477/278/403/,"Medial amygdalar nucleus, anterodorsal part"
+CEA,/997/8/567/623/477/278/536/,Central amygdalar nucleus
+CP,/997/8/567/623/477/485/672/,Caudoputamen
+ACB,/997/8/567/623/477/493/56/,Nucleus accumbens
+OT,/997/8/567/623/477/493/754/,Olfactory tubercle
+FS,/997/8/567/623/477/493/998/,Fundus of striatum
+BAC,/997/8/567/623/803/809/287/,Bed nucleus of the anterior commissure
+BST,/997/8/567/623/803/809/351/,Bed nuclei of the stria terminalis
+GPe,/997/8/567/623/803/818/1022/,"Globus pallidus, external segment"
+GPi,/997/8/567/623/803/818/1031/,"Globus pallidus, internal segment"
+TRS,/997/8/567/623/803/826/581/,Triangular nucleus of septum
+MSC,/997/8/567/623/803/826/904/,Medial septal complex
+MA,/997/8/567/623/803/835/298/,Magnocellular nucleus
+SI,/997/8/567/623/803/835/342/,Substantia innominata
+HIP,/997/8/567/688/695/1089/1080/,Hippocampal region
+RHP,/997/8/567/688/695/1089/822/,Retrohippocampal region
+GU,/997/8/567/688/695/315/1057/,Gustatory areas
+FRP,/997/8/567/688/695/315/184/,"Frontal pole, cerebral cortex"
+PTLp,/997/8/567/688/695/315/22/,Posterior parietal association areas
+AUD,/997/8/567/688/695/315/247/,Auditory areas
+RSP,/997/8/567/688/695/315/254/,Retrosplenial area
+ACA,/997/8/567/688/695/315/31/,Anterior cingulate area
+ILA,/997/8/567/688/695/315/44/,Infralimbic area
+SS,/997/8/567/688/695/315/453/,Somatosensory areas
+MO,/997/8/567/688/695/315/500/,Somatomotor areas
+TEa,/997/8/567/688/695/315/541/,Temporal association areas
+VIS,/997/8/567/688/695/315/669/,Visual areas
+VISC,/997/8/567/688/695/315/677/,Visceral area
+ORB,/997/8/567/688/695/315/714/,Orbital area
+ECT,/997/8/567/688/695/315/895/,Ectorhinal area
+PERI,/997/8/567/688/695/315/922/,Perirhinal area
+AI,/997/8/567/688/695/315/95/,Agranular insular area
+PL,/997/8/567/688/695/315/972/,Prelimbic area
+AOB,/997/8/567/688/695/698/151/,Accessory olfactory bulb
+AON,/997/8/567/688/695/698/159/,Anterior olfactory nucleus
+MOB,/997/8/567/688/695/698/507/,Main olfactory bulb
+TR,/997/8/567/688/695/698/566/,Postpiriform transition area
+TT,/997/8/567/688/695/698/589/,Taenia tecta
+NLOT,/997/8/567/688/695/698/619/,Nucleus of the lateral olfactory tract
+COA,/997/8/567/688/695/698/631/,Cortical amygdalar area
+PAA,/997/8/567/688/695/698/788/,Piriform-amygdalar area
+DP,/997/8/567/688/695/698/814/,Dorsal peduncular area
+PIR,/997/8/567/688/695/698/961/,Piriform area
+LA,/997/8/567/688/703/131/,Lateral amygdalar nucleus
+BLAa,/997/8/567/688/703/295/303/,"Basolateral amygdalar nucleus, anterior part"
+BLAp,/997/8/567/688/703/295/311/,"Basolateral amygdalar nucleus, posterior part"
+BLAv,/997/8/567/688/703/295/451/,"Basolateral amygdalar nucleus, ventral part"
+BMAa,/997/8/567/688/703/319/327/,"Basomedial amygdalar nucleus, anterior part"
+BMAp,/997/8/567/688/703/319/334/,"Basomedial amygdalar nucleus, posterior part"
+CLA,/997/8/567/688/703/583/,Claustrum
+PA,/997/8/567/688/703/780/,Posterior amygdalar nucleus
+EPd,/997/8/567/688/703/942/952/,"Endopiriform nucleus, dorsal part"
+EPv,/997/8/567/688/703/942/966/,"Endopiriform nucleus, ventral part"
